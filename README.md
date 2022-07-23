@@ -1,2 +1,2 @@
-Hi, I’m Abdelrahman, structural enginner and self taught Web Developer.
-Currently working on a full stack MERN hotels' booking web app.
+Hi, I’m Abdelrahman, structural enginner and self taught web developer.
+Currently working on a hotels' booking web app using MERN stack.

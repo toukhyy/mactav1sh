@@ -1,2 +1,2 @@
-Hi, I’m @mactav1sh, self taught Web Developer.
-Currently learning backend development with Node js while doing random JS and react mini projects.
+Hi, I’m Abdelrahman, structural enginner and self taught Web Developer.
+Currently working on a full stack MERN hotels' booking web app.
